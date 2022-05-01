@@ -1,5 +1,5 @@
 # Works
-Cataloguing my art, design & other creations
+Cataloguing my creations & curations
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
